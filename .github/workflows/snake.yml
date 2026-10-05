@@ -1,1 +1,37 @@
+# 贡献图贪吃蛇动画生成工作流
+# 使用方法：在 LLLLLZ-529/LLLLLZ-529 仓库中创建 .github/workflows/snake.yml，
+# 把本文件内容粘贴进去并推送。之后每天自动更新一次，也可在 Actions 页手动触发。
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 00:00 UTC 自动更新
+  workflow_dispatch:      # 支持在 Actions 页面手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 生成两种配色（浅色 / 深色）的蛇形动画
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: LLLLLZ-529
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
+
+      # 发布到 output 分支，README 里通过 raw.githubusercontent.com 引用
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
 

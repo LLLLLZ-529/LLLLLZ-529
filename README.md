@@ -4,7 +4,9 @@
 
 **CS(AI) Student · LLM Fine-tuning / Agent Systems / Multimodal**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&width=480&lines=CS(AI)+student+in+Shenzhen;Exploring+LLM+%26+Agent+systems;Keep+tinkering!)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&width=400&lines=CS(AI)+student+in+Shenzhen;Exploring+LLM+%26+Agent+systems;Keep+tinkering!" alt="Typing SVG" />
+</p>
 
 📍 Shenzhen · 🇨🇳
 

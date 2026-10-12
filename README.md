@@ -8,9 +8,8 @@
 
 📍 Shenzhen · 🇨🇳
 
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) anne123456llz@gmail.com
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) LLLLLZ-529
+[![Email](https://img.shields.io/badge/Email-anne123456llz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anne123456llz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LLLLLZ--529-181717?style=flat&logo=github&logoColor=white)](https://github.com/LLLLLZ-529)
 
 </div>
 

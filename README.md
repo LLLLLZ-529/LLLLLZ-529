@@ -4,7 +4,7 @@
 
 **CS(AI) Student · LLM Fine-tuning / Agent Systems / Multimodal**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&width=520&lines=CS(AI)+student+in+Shenzhen;LLM+%E5%BE%AE%E8%B0%83+%26+Agent+systems;Student+health+RAG+%2B+customer+service+agent;Keep+tinkering!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=36BCF7&width=480&lines=CS(AI)+student+in+Shenzhen;Exploring+LLM+%26+Agent+systems;Handwritten+formula+recognition;Keep+tinkering!)
 
 📍 Shenzhen · 🇨🇳
 
@@ -66,8 +66,6 @@
 ---
 
 <div align="center">
-
-![visitors](https://komarev.com/ghpvc/?username=LLLLLZ-529&style=flat-square&color=blue)
 
 ⭐️ *Thanks for stopping by!*
 
